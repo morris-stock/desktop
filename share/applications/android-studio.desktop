@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/morris/.dks/adt/android-studio/bin/studio.sh
+Name=Android Studio
+GenericName=Android Studio
+X-KDE-StartupNotify=true
+Icon=studio
+Terminal=false
+Categories=Development;IDE;Android;
