@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=E-Book Viewer
+Comment=E-Book Viewer
+TryExec=/home/morris/.dks/calibre/latest/ebook-viewer
+Exec=/home/morris/.dks/calibre/latest/ebook-viewer %F
+Icon=viewer
+MimeType=application/x-mobipocket-ebook;application/epub+zip;
+Categories=Office;Graphics;Viewer;
